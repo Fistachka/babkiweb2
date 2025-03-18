@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>babkiweb2</repo>
-  <version>v1.0.3</version>
+  <version>v1.0.4</version>
   <next number="1" owner="Fistachka" repo="babki3"/>
   <readme>
     <ru>5b2de299f2c02302e6e4c4d00f5d2f68ce08d9388385c493ea9ec029be747851</ru>
@@ -63,12 +63,12 @@
     <tonalities>1</tonalities>
     <video name="12t.mp4" size="2003198" type="video/mp4" volume="0.5">a1764976c4dd82d08bb12f696d858328b271d324a08a480c157209f526ab4b48</video>
     <notes>
-      <note number="1" values="78" ticks="62" durationTicks="35" ppq="96" velocity="0.843"/>
-      <note number="2" values="78" ticks="114" durationTicks="45" ppq="96" velocity="0.906"/>
-      <note number="3" values="68" ticks="159" durationTicks="40" ppq="96" velocity="0.858"/>
-      <note number="4" values="78" ticks="207" durationTicks="42" ppq="96" velocity="0.906"/>
-      <note number="5" values="188" ticks="256" durationTicks="78" ppq="96" velocity="0.906"/>
-      <note number="6" values="188" ticks="351" durationTicks="94" ppq="96" velocity="0.906"/>
+      <note number="1" values="78" ticks="48" durationTicks="35" ppq="96" velocity="0.843"/>
+      <note number="2" values="78" ticks="100" durationTicks="45" ppq="96" velocity="0.906"/>
+      <note number="3" values="68" ticks="145" durationTicks="40" ppq="96" velocity="0.858"/>
+      <note number="4" values="78" ticks="193" durationTicks="42" ppq="96" velocity="0.906"/>
+      <note number="5" values="188" ticks="242" durationTicks="78" ppq="96" velocity="0.906"/>
+      <note number="6" values="188" ticks="346" durationTicks="94" ppq="96" velocity="0.906"/>
     </notes>
   </exercise>
   <exercise number="5">
