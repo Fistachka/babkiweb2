@@ -31,4 +31,4 @@ Povernula ya domoj,
 Snova chyort idet za mnoj,
 Plyunula na plesh' emu
 I poslala k leshemu.<br><br>
-
+![в4](https://github.com/user-attachments/assets/eb6b8add-47b6-46bd-99c3-dd768eed0d3d)
