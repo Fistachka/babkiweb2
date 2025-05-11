@@ -14,6 +14,7 @@
 Плюнула на плешь ему
 И послала к лешему.
 
+Предыдущий урок: stolbitsa.com/fistachka/babkiweb1
 <br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -30,5 +31,7 @@ CHto za chertovshchina.
 Povernula ya domoj,
 Snova chyort idet za mnoj,
 Plyunula na plesh' emu
-I poslala k leshemu.<br><br>
+I poslala k leshemu.
+
+Previous lesson: stolbitsa.com/fistachka/babkiweb1<br><br>
 
